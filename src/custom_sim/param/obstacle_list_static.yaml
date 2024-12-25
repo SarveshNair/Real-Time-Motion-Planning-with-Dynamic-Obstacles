@@ -1,0 +1,27 @@
+obstacles:
+  - id: 0
+    position: [-7.0,4.0]
+    size: [15.0,2.0] #length, width
+  - id: 1
+    position: [-7.0,-6.0]
+    size: [15.0,2.0] #length, width
+    # velocity: [0.75, 0.0]
+    # bounds: [-15.5, -2.5]
+  - id: 2
+    position: [3.0,-1.0]
+    size: [11.0,2.0] #length, width
+  - id: 3
+    position: [-16.5,-1.0]
+    size: [12.0,2.0] #length, width
+  - id: 4
+    position: [12.5,-15.0]
+    size: [2.0,30.0] #length, width
+  - id: 5
+    position: [-17.5,-16.0]
+    size: [31.5,2.0] #length, width
+  - id: 6
+    position: [-17.5,-15.0]
+    size: [2.0,31.0] #length, width
+  - id: 7
+    position: [-17.5,14.0]
+    size: [32.0,2.0] #length, width

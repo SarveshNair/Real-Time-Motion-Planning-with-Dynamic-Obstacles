@@ -1,0 +1,4 @@
+# CheckCollision.srv
+geometry_msgs/Point point  # The point to check for collision
+---
+bool collision  # True if there is a collision, false otherwise

@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "${default}",
+                "limitSymbolsToIncludedHeaders": false
+            },
+            "includePath": [
+                "/opt/ros/noetic/include/**",
+                "/root/ros1_space/mp_ws/devel/include/**",
+                "/root/ros1_space/mp_ws/src/custom_sim/include/**",
+                "/root/ros1_space/mp_ws/src/rt_rrtstar/include/**",
+                "/usr/include/**",
+                "${workspaceFolder}/purepursuit_controller/include"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu11",
+            "cppStandard": "c++14"
+        }
+    ],
+    "version": 4
+}
